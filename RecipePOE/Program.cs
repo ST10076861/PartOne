@@ -48,7 +48,7 @@ namespace RecipePOE
 
              case 6:
              Console.WriteLine("Thank you for using our app!");
-             Environment.Exit(0);
+             Environment.Exit(6);
              break;
                 default:
                     Console.WriteLine("Invalid input. Please enter a number from 1 to 6.");
