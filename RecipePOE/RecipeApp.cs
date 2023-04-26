@@ -84,7 +84,7 @@ namespace RecipePOE
             {
                 for(int i = 0; i < quantityOfIng.Length; i++)
                 {
-                    quantityOfIng[i] *= 5;
+                    quantityOfIng[i] *= 0.5;
                 }
             }
 
