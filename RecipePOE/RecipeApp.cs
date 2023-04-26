@@ -65,7 +65,7 @@ namespace RecipePOE
             }
         }
 
-        public void dispaly()
+        public void display()
         {
 
             for (int i = 0; i < nameOfIng.Length; i++)
